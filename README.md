@@ -1,5 +1,7 @@
 ## Olá! Seja bem-vindo ao meu perfil! <img src="https://c.tenor.com/906nGAL7Xw0AAAAi/mochi-peachcat-cute-cat.gif" width="60" align="center">
 
+Estamos em obra ⚙️
+
  <div>
   <a href="https://github.com/JessicAnanias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicAnanias&layout=compact&langs_count=7&theme=dracula"/>
