@@ -1,18 +1,14 @@
-## Olá, bem-vindo ao meu perfil! <img src="https://c.tenor.com/906nGAL7Xw0AAAAi/mochi-peachcat-cute-cat.gif" width="30" align="center">
+## Olá, bem-vindo ao meu perfil! <img src="https://c.tenor.com/906nGAL7Xw0AAAAi/mochi-peachcat-cute-cat.gif" width="60" align="center">
 
  <div>
   <a href="https://github.com/JessicAnanias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicAnanias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jessica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jessica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jessica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jessica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 </div>
 
-##
-  <h3 align="left">Connect with me:  <img src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="30" align="center" />
+ ## 
+ Connect with me:  <img src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="60" align="center" />
    
 <div> 
 <a href="	https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a> 
