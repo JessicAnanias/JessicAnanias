@@ -19,6 +19,7 @@
   <a href="https://www.linkedin.com/in/j%C3%A9ssica-silva-7b76ba97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
-  ![Snake animation](https://github.com/JessicAnanias/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/JessicAnanias/JessicAnanias/blob/output/github-contribution-grid-snake.svg)
   
 </div>  
