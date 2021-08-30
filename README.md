@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Jéssica! 
+## Oiii! Aqui é a Jéssica! 
  <div>
   <a href="https://github.com/JessicAnanias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicAnanias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
