@@ -1,4 +1,4 @@
-## Olá! Seja bem-vindo ao meu perfil! <img src="https://c.tenor.com/trFXlWlyjGcAAAAi/hearts-love.gif" width="60" align="center">
+## Olá! Seja bem-vindo ao meu perfil! <img src="https://c.tenor.com/906nGAL7Xw0AAAAi/mochi-peachcat-cute-cat.gif" width="60" align="center">
 
  <div>
   <a href="https://github.com/JessicAnanias">
